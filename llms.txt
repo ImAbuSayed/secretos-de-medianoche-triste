@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/secretos-de-medianoche-triste/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Secretos de medianoche triste](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secretos-de-medianoche-triste/) |
+| **Get License** | [Official Music Licensing for Secretos de medianoche triste](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secretos-de-medianoche-triste/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -44,7 +44,7 @@
 
 ## 🔗 Song Links
 
-- [Telegram](https://t.me/AbuSayedMusic/3765)
+- [Telegram](https://t.me/AbuSayedMusic/3782)
 
 ---
 

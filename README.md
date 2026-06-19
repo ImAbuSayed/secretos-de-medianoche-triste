@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/secretos-de-medianoche-triste/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Secretos de medianoche triste](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secretos-de-medianoche-triste/) |
+| **Get License** | [Get a Licensing Quote for Secretos de medianoche triste](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secretos-de-medianoche-triste/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime si esta medianoche triste te escapas conmigo
+> En la oscuridad secreta quiero ser más que tu amigo
+> Rompiendo el silencio, tú y yo a poca luz
+> You know I got what you need, baby, just tell me the truth
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
